@@ -1,6 +1,6 @@
 [book]
 authors = ["Space Wizards Contributors"]
-language = "en"
+language = "ru"
 multilingual = false
 src = "src"
 title = "Space Wizards Development Wiki"
