@@ -3,7 +3,7 @@
 
 [Книга Robust](index.md)
 
-Мета
+Гитхаб страницы
 ====
 
 ----------------------
@@ -36,13 +36,6 @@
   - [Справочник по файлам конфигурации](ru/general-development/tips/config-file-reference.md)
   - [Ускоренный курс по YAML](ru/general-development/tips/yaml-crash-course.md)
   - [Советы по форкам](ru/general-development/tips/forking.md)
-- [Предложения функций](ru/general-development/feature-proposals.md)
-  - [Шаблон предложения функции](ru/templates/proposal.md)
-  - [Ожидаемый этикет команды и использование](ru/general-development/feature-proposals/expected-feature-proposal-decorum.md)
-- [Рабочие группы](ru/general-development/work-groups.md)
-- [Дизайн-документы игровых областей](ru/general-development/game-area-design-doc.md)
-- [Вклад в переводы](ru/general-development/contributing-translations.md)
-- [Правила модерации Github](ru/general-development/github-moderation-guidelines.md)
 
 SS14 на примерах
 ===============
@@ -70,7 +63,6 @@ Robust Toolbox
 - [Сетевой код]()
   - [Сетевые сущности](ru/robust-toolbox/netcode/net-entities.md)
   - [Последовательность подключения](ru/robust-toolbox/netcode/connection-sequence.md)
-  - [Потенциально видимое множество]()
 - [Системы координат](ru/robust-toolbox/coordinate-systems.md)
 - [Трансформация]()
   - [Координаты сущностей](ru/robust-toolbox/transform/entity-coordinates.md)
@@ -116,12 +108,7 @@ Space Station 14
 
 ----------------------
 
-- [Базовый игровой дизайн](ru/space-station-14/core-design.md)
-  - [Принципы дизайна](ru/space-station-14/core-design/design-principles.md)
-
-- [Базовые технологии]()
-	- [Рекомендации по PR]()
-	
+- [Базовые технологии]()	
 	- [Разрушаемые](ru/space-station-14/core-tech/destructible.md)
 	- [Строительство](ru/space-station-14/core-tech/construction.md)
 	- [Сети узлов](ru/space-station-14/core-tech/node-networks.md)
@@ -138,31 +125,7 @@ Space Station 14
 
 	- [Предложения]()
 
-- [Доступность](ru/space-station-14/accessibility.md)
-	- [Рекомендации по PR]()
-	
-	- [Предложения]()
-
-- [Инструменты администратора](ru/space-station-14/admin-tools.md)
-	- [Рекомендации по PR]()
-		
-	- [Предложения]()
-
 - [Арт](ru/space-station-14/art.md)
-	- [Рекомендации по PR]()
-	
-	- [Предложения]()
-
-- [Персонаж/Вид](ru/space-station-14/characters-species.md)
-	- [Рекомендации по PR](ru/space-station-14/character-species/guidelines.md)
-		
-	- [Предложения]()
-		- [Вульпканин](ru/space-station-14/character-species/proposals/vulpkanin.md)
-
-- [Бой](ru/space-station-14/combat.md)
-	- [Рекомендации по PR]()
-
-	- [Предложения]()
 
 - [Маппинг](ru/space-station-14/mapping.md)
 	- [Рекомендации по PR](ru/space-station-14/mapping/guidelines.md)
@@ -173,122 +136,6 @@ Space Station 14
 		- [Общее руководство](ru/space-station-14/mapping/guides/general-guide.md)
 
 	- [Предложения]()
-
-- [Взаимодействие игроков](ru/space-station-14/player-interaction.md)
-	- [Рекомендации по PR]()
-	
-	- [Загрузчики картриджей](ru/space-station-14/player-interaction/cartridge-loaders.md)
-	- [Руководство по акцентам](ru/space-station-14/player-interaction/accent-guidelines.md)
-
-	- [Предложения]()
-	  - [Обмен сообщениями КПК](ru/space-station-14/player-interaction/proposals/pda-messaging.md)
-	  - [Сеточный инвентарь](ru/space-station-14/player-interaction/proposals/grid-inventory.md)
-
-- [Ролевая игра/Лор](ru/space-station-14/roleplay-lore.md)
-	- [Рекомендации по PR]()
-		
-	- [Предложения]()
-
-- [Ход раунда](ru/space-station-14/round-flow.md)
-	- [Рекомендации по PR]()
-	
-	- [Антагонисты](ru/space-station-14/round-flow/antagonists.md)
- 		- [Предатели](ru/space-station-14/round-flow/antagonists/traitors.md)
-		- [Космический ниндзя](ru/space-station-14/round-flow/antagonists/space-ninja.md)
-		- [Истребитель](ru/space-station-14/round-flow/antagonists/exterminator.md)
-		- [Вор](ru/space-station-14/round-flow/antagonists/thief.md)
-		- [Ксеноборги](ru/space-station-14/round-flow/antagonists/Xenoborgs.md)
-		- [Преследователь](ru/space-station-14/round-flow/antagonists/pursuer.md)
-        - [Волшебник](ru/space-station-14/round-flow/antagonists/Wizard.md)
-
-	- [Предложения]()
-		- [Режим «Бригада по уборке»](ru/space-station-14/round-flow/proposals/cleanup-crew-gamemode.md)
-		- [Игровой директор](ru/space-station-14/round-flow/proposals/game-director.md)
-		- [Экономика отделов](ru/space-station-14/round-flow/proposals/departmental-economy.md)
-		- [Курьер по доставке пиццы](ru/space-station-14/round-flow/proposals/pizza-delivery-critter.md)
-		- [Дроны-отступники](ru/space-station-14/round-flow/proposals/rogue-drones.md)
-		- [Война за территорию](ru/space-station-14/round-flow/proposals/turf-war.md)
-		- [Генокрад](ru/space-station-14/round-flow/proposals/changeling.md)
-		- [Парадоксальный клон](ru/space-station-14/round-flow/proposals/paradox-clone.md)
-		- [Переработка революционеров](ru/space-station-14/round-flow/proposals/revolutionaries-codeword-rework.md)
-		- [Туристы](ru/space-station-14/round-flow/proposals/tourists.md)
-		- [Экология станции](ru/space-station-14/round-flow/proposals/station-ecosystem.md)
-		
-- [Пользовательский интерфейс](ru/space-station-14/user-interface.md)
-	- [Рекомендации по PR]()
-		
-	- [Предложения]()
-		- [Статпанели](ru/space-station-14/user-interface/proposals/statpanels.md)
-		- [Напоминания об игровом времени](ru/space-station-14/user-interface/proposals/playtimereminders.md)
-- [Отделы](ru/space-station-14/departments.md)
-	- [Атмосфера](ru/space-station-14/departments/atmos.md)
-		- [Рекомендации по PR](ru/space-station-14/departments/atmos/guidelines.md)
-        - [Дизайнерские решения](ru/space-station-14/departments/atmos/atmos-design-choices.md)
-
-		- [Предложения]()
-			- [Дорожная карта атмосферы](ru/space-station-14/departments/atmos/proposals/atmos-rework.md)
-			- [Рециркуляция воздуха станции](ru/space-station-14/departments/atmos/proposals/station-air-recirculation.md)
-			- [Обратные пневматические клапаны](ru/space-station-14/departments/atmos/proposals/inverse-pneumatic-valves.md)
-
-	- [Грузовой отдел](ru/space-station-14/departments/cargo.md)
-		- [Рекомендации по PR]()
-
-		- [Предложения]()
-			- [Доставка почты](ru/space-station-14/departments/cargo/proposals/mail-delivery.md)
-			- [Предложение по утилизации](ru/space-station-14/departments/cargo/proposals/salvage-proposal.md)
-   			- [Разбор утилизации](ru/space-station-14/departments/cargo/proposals/salvage-postmortem.md)	
-
-	- [Командование](ru/space-station-14/departments/command.md)
-		- [Рекомендации по PR]()
-		- [Предложения]()
-
-	- [Инженерный отдел](ru/space-station-14/departments/engineering.md)
-		- [Рекомендации по PR]()
-		
-		- [Pow3r](ru/space-station-14/departments/engineering/pow3r.md)
-        - [Сдерживание двигателя](ru/space-station-14/departments/engineering/engine-containment.md)
-
-		- [Предложения]()
-			- [Переработка улучшения машин](ru/space-station-14/departments/engineering/proposals/machine-upgrading-rework.md)
-			- [Переработка выработки энергии](ru/space-station-14/departments/engineering/proposals/power-generation.md)
-			- [Переработка сигнализаторов](ru/space-station-14/departments/engineering/proposals/signaller-rework.md)
-			- [Голодек](ru/space-station-14/departments/engineering/proposals/holodeck.md)
-
-	- [Медицина](ru/space-station-14/departments/medical.md)
- 		- [Медицинская рабочая группа](ru/space-station-14/departments/medical/medical-workgroup.md)
- 		- [Химия](ru/space-station-14/departments/medical/chemistry.md)
-		- [Рекомендации по PR](ru/space-station-14/departments/medical/guidelines.md)
-
-		- [Предложения]()
-	
-	- [Наука](ru/space-station-14/departments/science.md)
-		- [Рекомендации по PR]()
-		- [Ядра аномалий](ru/space-station-14/departments/science/anomaly-cores.md)
-
-		- [Предложения]()
-			- [Ксеноархеология Redux (3MOArch)](ru/space-station-14/departments/science/proposals/xenoarch-redux.md)
-			- [Ксенобиология](ru/space-station-14/departments/science/proposals/xenobio.md)
-   			- [Исследование аномалий](ru/space-station-14/departments/science/proposals/anomalous-research-update.md)	
-
-	- [Служба безопасности](ru/space-station-14/departments/security.md)
-		- [Рекомендации по PR]()
-
-		- [Предложения]()
-			- [Заключённые общего блока](ru/space-station-14/departments/security/proposals/genpop-prisoners.md)
-			- [Механики снижения метагейминга](ru/space-station-14/departments/security/proposals/reduced-metagaming.md)
-			- [Роль призрака — юнит Secdog](ru/space-station-14/departments/security/proposals/SecDog.md)
-	- [Сервис](ru/space-station-14/departments/service.md)
-		- [Рекомендации по PR](ru/space-station-14/departments/service/guidelines.md)
-
-		- [Предложения]()
-			- [Генетика растений](ru/space-station-14/departments/service/proposals/plant-genetics.md)
-   		- [Геймплей библиотекаря](ru/space-station-14/departments/service/proposals/theshued-librarian-gameplay.md)
-      - [Роли-джокеры](ru/space-station-14/departments/service/proposals/joker_roles.md)
-	- [Синтетики](ru/space-station-14/departments/silicon.md)
-		- [Рекомендации по PR]()
-
-		- [Предложения]()
-			- [Модификация наборов законов](ru/space-station-14/departments/silicon/proposals/lawset_modification.md)
 
 Общие предложения
 ================
@@ -322,7 +169,6 @@ Space Station 14
 - [Лаунчер]()
   - [Пакеты контента](ru/other-projects/launcher/content-bundles.md)
   - [Дельта-обновления и манифесты](ru/other-projects/launcher/delta-updates-and-manifests.md)
-- [SpaceWizards Lidgren]()
 
 Спецификации
 ==============
@@ -346,10 +192,6 @@ Space Station 14
   - [Инструменты администратора](ru/community/admin/admin-tooling.md)
     - [Админ-кулинарная книга](ru/community/admin/admin-tooling/admin-command-cookbook.md)
 	- [Скриптинг](ru/community/admin/admin-tooling/scripting.md)
-  - [Политика администраторов Wizards Den](ru/community/admin/wizards-den-admin-policy.md)
-  - [Политика банов Wizards Den](ru/community/admin/wizards-den-banning-policy.md)
-  - [Политика MRP Wizards Den](ru/community/admin/wizards-den-mrp-policy.md)
-- [Создание отчёта о прогрессе](ru/community/progress-report-creation.md)
 
 Разработка движка
 ========================
