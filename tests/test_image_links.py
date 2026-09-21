@@ -12,7 +12,7 @@ REPO_ROOT = Path.cwd()
 
 # Folders to check
 DOCS_DIRS = [
-    REPO_ROOT / r"src/en",
+    REPO_ROOT / r"src/ru", # RU-Localization
 ]
 
 # Configure allowed hosts (empty = only relative paths allowed)
