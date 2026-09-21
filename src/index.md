@@ -21,7 +21,6 @@
 
 - [:question: Как мне программировать?](ru/general-development/setup/howdoicode.md)
 - [:package: Настройка среды разработки](ru/general-development/setup/setting-up-a-development-environment.md)
-- [:page_with_curl: Базовый игровой дизайн](ru/space-station-14/core-design.md)
 - [:world_map: Маппинг](ru/space-station-14/mapping.md)
 - [:chart_with_upwards_trend: Git для разработчика SS14](ru/general-development/setup/git-for-the-ss14-developer.md)
 
